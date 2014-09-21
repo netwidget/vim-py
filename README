@@ -1,0 +1,8 @@
+This Vim setup creates a .vimrc file in /.vim folder.
+
+As symlink needs to be created a default Vim installation 
+to read the .vimrc from the users home folder
+
+    ln -s /path/to/home/folder/.vimrc /path/to/home/folder/.vim/.vimrc
+
+By doing this the .vimrc file can remain in version control.
