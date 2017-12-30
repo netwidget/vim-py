@@ -7,4 +7,4 @@ to read the .vimrc from the users home folder
 
 By doing this the .vimrc file can remain in version control.
 
-test
+Change the test
