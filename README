@@ -6,3 +6,5 @@ to read the .vimrc from the users home folder
     ln -s /path/to/home/folder/.vimrc /path/to/home/folder/.vim/.vimrc
 
 By doing this the .vimrc file can remain in version control.
+
+test
